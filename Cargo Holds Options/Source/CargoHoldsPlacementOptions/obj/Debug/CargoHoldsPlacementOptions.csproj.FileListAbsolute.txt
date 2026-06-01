@@ -1,7 +1,0 @@
-c:\Steam\steamapps\common\RimWorld\Mods\Cargo Holds Options\Assemblies\CargoHoldsPlacementOptions.dll
-c:\Steam\steamapps\common\RimWorld\Mods\Cargo Holds Options\Assemblies\CargoHoldsPlacementOptions.pdb
-c:\Steam\steamapps\common\RimWorld\Mods\Cargo Holds Options\Source\CargoHoldsPlacementOptions\obj\Debug\CargoHoldsPlacementOptions.csproj.AssemblyReference.cache
-c:\Steam\steamapps\common\RimWorld\Mods\Cargo Holds Options\Source\CargoHoldsPlacementOptions\obj\Debug\CargoHoldsPlacementOptions.GeneratedMSBuildEditorConfig.editorconfig
-c:\Steam\steamapps\common\RimWorld\Mods\Cargo Holds Options\Source\CargoHoldsPlacementOptions\obj\Debug\CargoHoldsPlacementOptions.csproj.CoreCompileInputs.cache
-c:\Steam\steamapps\common\RimWorld\Mods\Cargo Holds Options\Source\CargoHoldsPlacementOptions\obj\Debug\CargoHoldsPlacementOptions.dll
-c:\Steam\steamapps\common\RimWorld\Mods\Cargo Holds Options\Source\CargoHoldsPlacementOptions\obj\Debug\CargoHoldsPlacementOptions.pdb

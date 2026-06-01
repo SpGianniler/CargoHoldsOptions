@@ -3,21 +3,28 @@
   <name>Cargo Holds Placement Options</name>
   <author>blazze</author>
   <packageId>blazze.cargoholdsplacementoptions</packageId>
+  <url>https://github.com/SpGianniler/CargoHoldsOptions</url>
+  <changelogUrl>https://github.com/SpGianniler/CargoHoldsOptions/releases/tag/release</changelogUrl>
+
   <supportedVersions>
     <li>1.6</li>
   </supportedVersions>
-  <description>In-game settings to toggle Cargo Holds adjacency and substructure placement
-    restrictions globally or per def.</description>
+
+  <description>
+This is a personal quality-of-life options mod for the Cargo Holds mod by jdgg.
+
+It adds configurable placement behavior for cargo holds, letting you control the adjacency restriction and substructure requirement separately, with per-def or global settings depending on what you want to manage.
+
+Huge thanks to the original creator of Cargo Holds for the mod and the work behind it. This mod exists mainly for personal use and convenience. If the original author would prefer that this be removed, it can be taken down immediately.
+  </description>
+
+  <modDependencies>
+    <li>
+      <packageId>jdgg.adaptive.cargoholds</packageId>
+    </li>
+  </modDependencies>
 
   <loadAfter>
     <li>jdgg.adaptive.cargoholds</li>
   </loadAfter>
-
-  <modDependencies>
-    <li>
-      <packageId>brrainz.harmony</packageId>
-      <displayName>Harmony</displayName>
-      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
-    </li>
-  </modDependencies>
 </ModMetaData>
