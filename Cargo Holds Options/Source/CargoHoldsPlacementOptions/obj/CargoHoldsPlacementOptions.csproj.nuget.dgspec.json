@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Steam\\steamapps\\common\\RimWorld\\Mods\\Cargo Holds Options\\Source\\CargoHoldsPlacementOptions\\CargoHoldsPlacementOptions.csproj": {}
+  },
+  "projects": {
+    "C:\\Steam\\steamapps\\common\\RimWorld\\Mods\\Cargo Holds Options\\Source\\CargoHoldsPlacementOptions\\CargoHoldsPlacementOptions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Steam\\steamapps\\common\\RimWorld\\Mods\\Cargo Holds Options\\Source\\CargoHoldsPlacementOptions\\CargoHoldsPlacementOptions.csproj",
+        "projectName": "CargoHoldsPlacementOptions",
+        "projectPath": "C:\\Steam\\steamapps\\common\\RimWorld\\Mods\\Cargo Holds Options\\Source\\CargoHoldsPlacementOptions\\CargoHoldsPlacementOptions.csproj",
+        "packagesPath": "C:\\Users\\Spyros\\.nuget\\packages\\",
+        "outputPath": "C:\\Steam\\steamapps\\common\\RimWorld\\Mods\\Cargo Holds Options\\Source\\CargoHoldsPlacementOptions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Spyros\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "framework": "net472",
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.300"
+      },
+      "frameworks": {
+        "net472": {
+          "framework": "net472",
+          "targetAlias": "net472",
+          "dependencies": {
+            "Lib.Harmony.Ref": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.3.3, )"
+            },
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
