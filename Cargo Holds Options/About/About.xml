@@ -3,8 +3,21 @@
   <name>Cargo Holds Placement Options</name>
   <author>blazze</author>
   <packageId>blazze.cargoholdsplacementoptions</packageId>
-  <supportedVersions><li>1.6</li></supportedVersions>
-  <description>In-game settings to toggle Cargo Holds adjacency and substructure placement restrictions globally or per def.</description>
-  <loadAfter><li>jdgg.adaptive.cargoholds</li></loadAfter>
-  <modDependencies><li><packageId>brrainz.harmony</packageId><displayName>Harmony</displayName><steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl></li></modDependencies>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <description>In-game settings to toggle Cargo Holds adjacency and substructure placement
+    restrictions globally or per def.</description>
+
+  <loadAfter>
+    <li>jdgg.adaptive.cargoholds</li>
+  </loadAfter>
+
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+  </modDependencies>
 </ModMetaData>
